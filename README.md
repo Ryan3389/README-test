@@ -2,5 +2,7 @@
 
 ## images
 
-[deployed website](/images/deployed-one.png)
-[deployed website](/images/deployed-two.png)
+[deployed website](/images/deployed-full.png)
+
+deployed website link:
+https://ryan3389.github.io/module-one-assignment/#social-media-marketing
